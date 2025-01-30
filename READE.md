@@ -1,4 +1,4 @@
-<div>
+<div style="display:flex; flex-direction:row; align-items:center;>
   <table style="border: none; width: 100%;">
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
