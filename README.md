@@ -3,7 +3,7 @@
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
       <img src="assets/jailson.png" alt="Foto Jailson" width="90"><br>
-      JAILSON RODRIGUES
+      <span style="color:#fff;">Jailson Rodrigues</span>
     </td>
     <td style="vertical-align: middle;">
       <h2 style="margin: 0;">Amigo Secreto</h2>
