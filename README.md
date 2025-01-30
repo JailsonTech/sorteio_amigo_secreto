@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:row; align-items:center;>
+
   <table style="border: none; width: 100%;">
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
@@ -9,9 +9,6 @@
     </td>
   </tr>
 </table>
-  <img src="assets/jailson.png" alt="Foto Jailson" width="90">
-</div>
-
 
 <h3>Desafio:</h3>
 Desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
