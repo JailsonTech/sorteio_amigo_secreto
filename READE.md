@@ -1,6 +1,6 @@
-<div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="assets/jailson.png" alt="Descrição da Imagem" width="100" style="margin-right: 10px;">
-    <h2>Amigo Secreto</h2>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="assets/jailson.png" alt="foto Jailson" width="100" style="margin-right: 10px;">
+    <h2 style="margin: 0;">Amigo Secreto</h2>
 </div>
 
 <h3>Desafio:</h3>
