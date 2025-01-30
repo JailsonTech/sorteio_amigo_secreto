@@ -2,7 +2,7 @@
   <table style="border: none; width: 100%;">
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
-      <img src="assets/jailson.png" alt="Foto Jailson" width="90">
+      <img src="assets/jailson.png" alt="Foto Jailson" width="90"><br>
       JAILSON RODRIGUES
     </td>
     <td style="vertical-align: middle;">
