@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction:row; align-items: center;">
     <img src="assets/jailson.png" alt="Descrição da Imagem" width="100" style="margin-right: 10px;">
     <h2>Amigo Secreto</h2>
 </div>
