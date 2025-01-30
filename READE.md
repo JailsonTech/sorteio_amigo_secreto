@@ -1,6 +1,6 @@
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="padding-right: 10px; vertical-align: middle; width:100%;">
+    <td style="padding-right: 10px; vertical-align: middle;">
       <img src="assets/jailson.png" alt="Foto Jailson" width="100">
     </td>
     <td style="vertical-align: middle;">
