@@ -23,6 +23,6 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 <h3>Créditos:</h3>
 Programa gratuito de educação e empregabilidade que capacita pessoas em tecnologia. 
-O programa é realizado pela Oracle em parceria com empresas com a ALURA
+O programa é realizado pela Oracle em parceria com a ALURA.
 <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Oracle One">
 
