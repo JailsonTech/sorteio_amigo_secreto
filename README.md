@@ -21,3 +21,8 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 * Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 * Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+<h3>Créditos:</h3>
+Programa gratuito de educação e empregabilidade que capacita pessoas em tecnologia. 
+O programa é realizado pela Oracle em parceria com empresas como a Alura e a FIAP. 
+ALURA <img src="assets/oracle.png" alt="Foto Jailson" width="40">
+
