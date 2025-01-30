@@ -1,7 +1,7 @@
 <table style="border: none; width: 100%;">
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
-      <img src="assets/jailson.png" alt="Foto Jailson" width="100">
+      <img src="assets/jailson.png" alt="Foto Jailson" width="90">
     </td>
     <td style="vertical-align: middle;">
       <h2 style="margin: 0;">Amigo Secreto</h2>
