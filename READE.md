@@ -1,4 +1,5 @@
-<table style="border: none; width: 100%;">
+<div>
+  <table style="border: none; width: 100%;">
   <tr>
     <td style="padding-right: 10px; vertical-align: middle;">
       <img src="assets/jailson.png" alt="Foto Jailson" width="90">
@@ -8,6 +9,8 @@
     </td>
   </tr>
 </table>
+  <img src="assets/jailson.png" alt="Foto Jailson" width="90">
+</div>
 
 
 <h3>Desafio:</h3>
