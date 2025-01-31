@@ -27,11 +27,11 @@ Programa gratuito de educação e empregabilidade que capacita pessoas em tecnol
 O programa é realizado pela Oracle em parceria com a ALURA.
 <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Oracle One">
 
-# ..................................................
-<h3>IMPLEMENTAÇÃO</3>
-Além do que foi proposto, foi incrementado o seguinte:
-1. botão limpar para recomeçar.
-2. Nova imagem.
-3. Foco no campo input para digitar novamente se necessário.
+<h3>IMPLEMENTAÇÃO</h3>
+<h4>Além do que foi proposto, foi incrementado o seguinte:</h4>
+<p>1. botão limpar para recomeçar.
+<p>2. Nova imagem.</p>
+<p>3. Foco no campo input para digitar novamente se necessário.</p>
+<p>4. Verificar se nome já foi inserido, para evitar dois nomes iguais.</p>
 
 
