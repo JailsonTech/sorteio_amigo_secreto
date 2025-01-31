@@ -29,7 +29,7 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 
 <h3>IMPLEMENTAÇÃO</h3>
 <h4>Além do que foi proposto, foi incrementado o seguinte:</h4>
-<p>1. botão limpar para recomeçar.
+<p>1. Acrescentado botão para reiniciar e limpar.
 <p>2. Atualização do html e inserção de imagens.</p>
 <p>3. Foco no campo input para digitar novamente se necessário.</p>
 <p>4. Alert se nome já foi inserido</p>
@@ -37,5 +37,6 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 <p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
 <p>7. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
 <p>8. Uso da tecla 'Enter' para inserção de nomes na lista.</p>
+<p>9. Limpeza automática do campo input a cada inserção</p>
 
 
