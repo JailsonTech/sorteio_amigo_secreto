@@ -35,7 +35,7 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 <p>4. Alert se nome já foi inserido</p>
 <p>5. Alert se nome conter somente letras.</p>
 <p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
-<p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
-<p>7. Uso da tecla 'Enter' para inserção de nomes na lista.</p>
+<p>7. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
+<p>8. Uso da tecla 'Enter' para inserção de nomes na lista.</p>
 
 
