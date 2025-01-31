@@ -30,9 +30,10 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 <h3>IMPLEMENTAÇÃO</h3>
 <h4>Além do que foi proposto, foi incrementado o seguinte:</h4>
 <p>1. botão limpar para recomeçar.
-<p>2. Nova imagem.</p>
+<p>2. Atualização do html e inserção de imagens.</p>
 <p>3. Foco no campo input para digitar novamente se necessário.</p>
 <p>4. Verificar se nome já foi inserido, para evitar dois nomes iguais.</p>
 <p>5. Verificar se nome contém somente letras.</p>
+<p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
 
 
