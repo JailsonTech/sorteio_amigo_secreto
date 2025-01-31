@@ -92,3 +92,10 @@ function limpar() {
     const amigoInput = document.getElementById('amigo');
     amigoInput.value = '';
 }
+
+// evento de tecla Enter no campo de entrada
+document.getElementById('amigo').addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+        adicionarAmigo();
+    }
+});
