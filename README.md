@@ -32,5 +32,6 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 <p>1. botão limpar para recomeçar.
 <p>2. Nova imagem.</p>
 <p>3. Foco no campo input para digitar novamente se necessário.</p>
+<p>4. Verificar se nome já foi inserido, para evitar dois nomes iguais.</p>
 
 
