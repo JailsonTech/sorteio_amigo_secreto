@@ -32,8 +32,10 @@ O programa é realizado pela Oracle em parceria com a ALURA.
 <p>1. botão limpar para recomeçar.
 <p>2. Atualização do html e inserção de imagens.</p>
 <p>3. Foco no campo input para digitar novamente se necessário.</p>
-<p>4. Verificar se nome já foi inserido, para evitar dois nomes iguais.</p>
-<p>5. Verificar se nome contém somente letras.</p>
+<p>4. Alert se nome já foi inserido</p>
+<p>5. Alert se nome conter somente letras.</p>
 <p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
+<p>6. Exclusão automática, a cada sorteio, de nomes da lista que foram sorteados.</p>
+<p>7. Uso da tecla 'Enter' para inserção de nomes na lista.</p>
 
 
