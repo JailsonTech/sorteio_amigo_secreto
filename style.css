@@ -6,6 +6,9 @@
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
+    --color-blue: #ebff39;
+    --color-button_clean: #0b0e94;
+
 }
 
 /* Estilos gerais */
@@ -61,6 +64,13 @@ body {
     color: var(--color-white);
 }
 
+.imagem{
+    width: 280px;
+    filter: drop-shadow(1px 88px 20px #ffffff) brightness(100%);
+    margin:0;
+
+}
+
 .section-title {
     font-family: "Inter", serif;
     font-size: 36px;
@@ -90,6 +100,7 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    display:flex;
 }
 
 /* Estilos de entrada de texto */
@@ -160,3 +171,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button_clean{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-blue);
+    background-color: var(--color-button_clean);
+    font-size: 16px;
+}
+
