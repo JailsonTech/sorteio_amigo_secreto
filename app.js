@@ -80,6 +80,12 @@ function sortearAmigo() {
     // Exibe o resultado do sorteio
     const resultadoElement = document.getElementById('resultado');
     resultadoElement.innerHTML = `<li>O amigo secreto é: ${amigoSorteado}</li>`;
+
+    // Remove o nome sorteado da lista de amigos
+    amigos.splice(indiceAleatorio, 1);
+
+    // Atualiza a lista visível após o sorteio
+    atualizarListaAmigos();
 }
 
 function reiniciar() {
