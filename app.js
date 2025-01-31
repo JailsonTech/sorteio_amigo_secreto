@@ -24,6 +24,15 @@ function adicionarAmigo() {
         return;
     }
 
+    // Verifica se o nome contém apenas letras (e espaços, se necessário)
+    const nomeValido = /^[a-zA-Z\s]+$/.test(nomeAmigo);
+    if (!nomeValido) {
+        alert('Por favor, insira um nome válido contendo apenas letras.');
+        amigoInput.value = '';  // Limpa o campo de entrada
+        amigoInput.focus();     // Focaliza o campo de entrada
+        return;
+    }
+
     // Adiciona o nome à lista de amigos
     amigos.push(nomeAmigo);
 

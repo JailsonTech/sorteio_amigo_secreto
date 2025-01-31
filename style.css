@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
@@ -31,6 +33,25 @@ body {
     flex-direction: column;
     height: 100%;
     width: 100%;
+    position:relative;
+}
+
+figure{
+    width:max-content;
+    height:auto;
+    margin:20px 0 0 40px;
+    position:absolute;
+    opacity:45%;
+}
+figcaption{
+    font-size: 18px;
+    font-family: "Caveat", serif;
+    text-align: center;
+    color:#dfdfdf;  
+}
+
+.img_jailson{
+    width:100px;    
 }
 
 /* Banner */
@@ -95,12 +116,17 @@ body {
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
     font-size: 16px;
+
 }
 
 .button-container {
     width: 300px;
     justify-content: center;
     display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+
 }
 
 /* Estilos de entrada de texto */
