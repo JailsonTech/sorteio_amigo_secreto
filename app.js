@@ -2,6 +2,7 @@
 // variável que vai armazenar os nomes dos amigos
 let amigos = [];
 
+
 // Função para adicionar amigos à lista
 function adicionarAmigo() {
     // Captura o valor do campo de entrada
@@ -50,6 +51,10 @@ function adicionarAmigo() {
 function atualizarListaAmigos() {
     const listaAmigos = document.getElementById('listaAmigos');
     listaAmigos.innerHTML = ''; // Limpa a lista antes de atualizar
+    listaAmigos.style = 'display:block';
+
+    const container = document.getElementById('container-list');
+    container.style = 'display:block';
 
     amigos.forEach(amigo => {
         const item = document.createElement('li');
@@ -77,7 +82,7 @@ function sortearAmigo() {
     resultadoElement.innerHTML = `<li>O amigo secreto é: ${amigoSorteado}</li>`;
 }
 
-function limpar() {
+function reiniciar() {
     // Limpa a lista de amigos
     amigos = [];
 
@@ -91,6 +96,14 @@ function limpar() {
     // Limpa o campo de entrada
     const amigoInput = document.getElementById('amigo');
     amigoInput.value = '';
+
+    const listaAmigos = document.getElementById('listaAmigos');
+    listaAmigos.style = 'display:none'; // Limpa a lista antes de atualizar
+
+    const container = document.getElementById('container-list');
+    container.style = 'display:none';
+    
+    
 }
 
 // evento de tecla Enter no campo de entrada

@@ -163,13 +163,8 @@ button {
     background-color: #a1a1a1;
 }
 
-.container-list{
-   text-align: center;
-   width:260px;
-   position:absolute;
-   left:5em;
-   top:22em;   
-}
+
+
 
 /* Listas */
 ul {
@@ -177,8 +172,38 @@ ul {
     color: var(--color-text);
     font-family: "Inter", sans-serif;
     font-size: 18px;
-    margin: 20px 0;  
-    background-color: #fe652b;  
+    margin: 20px 0;        
+}
+
+#container-list{
+    position:absolute;
+    left:5em;
+    top:24em;
+    background-color: #8F2800;
+    width:max-content;
+    height:auto;
+    padding:10px;
+}
+
+.title-amigos{
+    font-weight: bold;
+    color:#b3ffff;
+    text-align: center;
+    width: 100%;
+    height:auto;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ffffff;    
+}
+
+#listaAmigos{
+    line-height: 25px;
+    text-align: center;      
+    border-radius: 7px;
+    display:none;
+    width: max-content;
+    color:#EDEDED;
+    margin:0;
+
 }
 
 .result-list {
